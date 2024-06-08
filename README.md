@@ -1,1 +1,1 @@
-# basic-info-site
+A very basic info site for backend practice.
